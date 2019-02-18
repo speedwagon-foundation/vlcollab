@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vlcollab", "vlcollab\vlcollab.csproj", "{BC44742C-9780-4F38-8799-1B3C4F790E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC44742C-9780-4F38-8799-1B3C4F790E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC44742C-9780-4F38-8799-1B3C4F790E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC44742C-9780-4F38-8799-1B3C4F790E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC44742C-9780-4F38-8799-1B3C4F790E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD39139F-7909-4B4E-AE9E-AF6B91A1C9C2}
+	EndGlobalSection
+EndGlobal
