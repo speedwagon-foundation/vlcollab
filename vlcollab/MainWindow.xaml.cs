@@ -185,12 +185,14 @@ namespace vlcollab
             {
                 WindowStyle = WindowStyle.None;
                 WindowState = WindowState.Maximized;
+                ResizeMode = ResizeMode.NoResize;
                 Menu.Visibility = Visibility.Hidden;
             }
             else
             {
                 WindowState = WindowState.Normal;
                 WindowStyle = WindowStyle.SingleBorderWindow;
+                ResizeMode = ResizeMode.CanResize;
                 Menu.Visibility = Visibility.Visible;
 
             }
